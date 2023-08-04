@@ -2,11 +2,11 @@
   
   * Author: Kyosook Shin
   * Author's Email: kyosook.shin@gmail.com
-  * Deployed URL: 
-  * GitHub: https://github.com/alla0810/hw1
+  * Deployed URL: https://alla0810.github.io/module1-hw/
+  * GitHub: https://github.com/alla0810/module1-hw
 
 ## Source Code Base
-  This project is based on the provided base code and refactored by the author to meet the accetance criteria.
+  This project is based on the provided base code and refactored by the author to meet the acceptance criteria.
 
   * Base code URL: https://github.com/coding-boot-camp/urban-octo-telegram
   
